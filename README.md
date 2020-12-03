@@ -2,8 +2,8 @@
 
 <img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Car/final.png" align="center">
 <img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Car/final2.png" align="center">
-<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Swinging%20Ball%20Illusion/Nikhil-GAT-Project.gif" align="center">
-<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Swinging%20Ball%20Illusion/view1.png" align="center">
+<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Project-Swinging%20Ball%20Illusion/Nikhil-GAT-Project.gif" align="center">
+<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Project-Swinging%20Ball%20Illusion/view1.png" align="center">
 <img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Rocket/1.png" align="center">
 <img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Rocket/2.png" align="center">
 <img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Rotating%20Text%20Effect/Name.gif" align="center">
