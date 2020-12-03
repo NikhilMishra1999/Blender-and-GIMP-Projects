@@ -2,5 +2,17 @@
 
 <img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Car/final.png" align="center">
 <img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Car/final2.png" align="center">
+<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Swinging%20Ball%20Illusion/Nikhil-GAT-Project.gif" align="center">
+<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Swinging%20Ball%20Illusion/view1.png" align="center">
 <img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Rocket/1.png" align="center">
 <img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Rocket/2.png" align="center">
+<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Rotating%20Text%20Effect/Name.gif" align="center">
+<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Wizard%20Hut/Render%20final.png" align="center">
+<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Wizard%20Hut/Render1.png" align="center">
+<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/Blender%20Experiments/Rocket/2.png" align="center">
+
+# GIMP-Projects
+
+<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/GIMP%20Experiments/Vector%20Project/finalwhite.png" align="center">
+<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/GIMP%20Experiments/EXP3/EXP3.png" align="center">
+<img src="https://github.com/NikhilMishra1999/Blender-Projects/blob/master/GIMP%20Experiments/EXP4/final.gif" align="center">
